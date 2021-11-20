@@ -1,0 +1,69 @@
+@media all and (max-width: 1000px) {
+  .wrapper h2 {
+    font-size: 32px;
+}
+  .logo  a {
+    font-size: 32px;
+  }
+
+   .wrapper .borderimage {
+    position: relative; 
+    width: 30%;
+     }
+
+  .wrapper img {
+    position: static;
+  }
+  .wrapper .kolom {
+    font-size: 10px;
+    position: relative;
+  }
+
+  .wrapper .kolom .deskripsi h2 {
+    font-size: 10px;
+    text-align: left;
+  }
+  .wrapper2 h2 {
+    font-size: 32px;
+    align-content: flex-end;
+  }
+
+  .wrapper2 {
+    display: inline-flex;
+  }
+  .image2 .img2{
+    position: relative;
+    width: 150%;
+  }
+
+  .image5 .img5{
+    position: relative;
+    width: 400px;
+  }
+
+
+  .baris2 {
+    font-size: 15px;
+    align-content: flex-end;
+  }
+  
+  .image3 .genshin {
+    width: 105%;
+  }
+
+   .image4 .valorant {
+    width: 105%;
+  }
+
+   .Download {
+    position: relative;
+    display: block;
+   }
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .lesson {
+    width: 100%;
+  }
